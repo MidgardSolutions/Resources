@@ -24,4 +24,4 @@
 * [Continuous Delivery for .Net Core with GitHub, Cake, GitTools, and AppVeyor](http://www.michael-whelan.net/continuous-delivery-github-cake-gittools-appveyor/)
 
 ## ASP.Net MVC
-* [Friends Don’t Let Friends Swallow NullReferenceException](https://medium.com/@joni2nja/friends-dont-let-friends-swallow-nullreferenceexception-acd949833d70)
+* [How I Boosted 3.3 Minutes Slow ASP.NET MVC 5 Web App Startup to 3 Seconds](https://medium.com/@joni2nja/how-i-boosted-3-3-minutes-slow-asp-net-mvc-5-web-app-startup-to-3-seconds-e5ea166f9bce)
