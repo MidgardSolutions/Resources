@@ -11,3 +11,10 @@
 * [Pipelines - a guided tour of the new IO API in .NET, part 2](https://blog.marcgravell.com/2018/07/pipe-dreams-part-2.html)
 * [Pipelines - a guided tour of the new IO API in .NET, part 3](https://blog.marcgravell.com/2018/07/pipe-dreams-part-3.html)
 * [Pipelines - a guided tour of the new IO API in .NET, part 3.1](https://blog.marcgravell.com/2018/07/pipe-dreams-part-31.html)
+
+## SQL Server
+* [Transaction Locking and Row Versioning Guide](https://technet.microsoft.com/en-us/library/jj856598(v=sql.110).aspx)
+* [What is a SQL Server deadlock?](https://www.sqlshack.com/what-is-a-sql-server-deadlock/)
+* [Understanding the graphical representation of the SQL Server Deadlock Graph](https://www.sqlshack.com/understanding-graphical-representation-sql-server-deadlock-graph/)
+* [Understanding the XML description of the Deadlock Graph in SQL Server](https://www.sqlshack.com/understanding-the-xml-description-of-the-deadlock-graph-in-sql-server/)
+* [Detecting and Ending Deadlocks](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms178104(v=sql.105))
