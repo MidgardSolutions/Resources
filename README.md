@@ -18,3 +18,6 @@
 * [Understanding the graphical representation of the SQL Server Deadlock Graph](https://www.sqlshack.com/understanding-graphical-representation-sql-server-deadlock-graph/)
 * [Understanding the XML description of the Deadlock Graph in SQL Server](https://www.sqlshack.com/understanding-the-xml-description-of-the-deadlock-graph-in-sql-server/)
 * [Detecting and Ending Deadlocks](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms178104(v=sql.105))
+
+## Cake
+* [Automating .NET Core deployments to different platforms with Cake](https://jeremylindsayni.wordpress.com/2017/07/03/automating-net-core-2-deployments-to-different-platforms-with-cake/)
