@@ -21,3 +21,4 @@
 
 ## Cake
 * [Automating .NET Core deployments to different platforms with Cake](https://jeremylindsayni.wordpress.com/2017/07/03/automating-net-core-2-deployments-to-different-platforms-with-cake/)
+* [Continuous Delivery for .Net Core with GitHub, Cake, GitTools, and AppVeyor](http://www.michael-whelan.net/continuous-delivery-github-cake-gittools-appveyor/)
