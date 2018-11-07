@@ -6,6 +6,7 @@
 * [Don't Block on Async Code](https://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)
 * [TransactionScope and Async/Await](https://particular.net/blog/transactionscope-and-async-await-be-one-with-the-flow)
 * [Implicit Async Context ("AsyncLocal")](http://blog.stephencleary.com/2013/04/implicit-async-context-asynclocal.html)
+* [await anything](https://blogs.msdn.microsoft.com/pfxteam/2011/01/13/await-anything/)
 
 ## .Net Core
 * [Pipelines - a guided tour of the new IO API in .NET, part 1](https://blog.marcgravell.com/2018/07/pipe-dreams-part-1.html)
