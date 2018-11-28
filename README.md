@@ -1,5 +1,8 @@
 # Articles
 
+## General
+* [Be Lazy, but be ware of initialization exception](https://theburningmonk.com/2013/04/be-lazy-but-be-ware-of-initialization-exception/)
+
 ## Task Parallel Library
 * [Asynchronous programming](https://docs.microsoft.com/en-us/dotnet/csharp/async)
 * [Do I need to dispose of Tasks?](https://blogs.msdn.microsoft.com/pfxteam/2012/03/25/do-i-need-to-dispose-of-tasks/)
